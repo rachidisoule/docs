@@ -8,7 +8,7 @@ description: >-
 
 **Google Chrome Portable**
 
-{% embed url="https://demo.sigam.cloud/content/upload/GoogleChromePortable.zip" %}
+{% embed url="https://bit.ly/sigam-chromeportable" %}
 
 **ComTestSerial - Test des ports séries**
 
